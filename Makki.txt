@@ -16,3 +16,5 @@ February 13, 2025
 Made a new webform based on the doctype
 February 14, 2025
 Customized webforms to separate doctypes for SG, SO and admin application forms
+February 14, 2025
+Changed doctypes to 2 pages to separate the applicant's document and interview questions
