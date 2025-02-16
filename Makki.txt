@@ -18,3 +18,5 @@ February 14, 2025
 Customized webforms to separate doctypes for SG, SO and admin application forms
 February 14, 2025
 Changed doctypes to 2 pages to separate the applicant's document and interview questions
+February 15, 2025
+Removed other companies in the company list section
