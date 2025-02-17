@@ -28,3 +28,5 @@ February 17, 2025
 changed routes for better navigation
 February 17, 2025
 created new webforms instead of customizing previous ones to accomodate the 2 page doctypes
+February 17, 2025
+removed title in website settings
