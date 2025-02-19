@@ -34,3 +34,5 @@ February 18, 2025
 Fixed job descriptions in the job listing
 February 18, 2025
 Fixed width and max height for the "attach" datatype
+February 18, 2025
+Used a new script to fix the reference number bug
